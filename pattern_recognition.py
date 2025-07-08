@@ -181,4 +181,4 @@ print(f"Extracted Feature Value: {feature_value}")
 
 *   With only a single image available, comprehensive pattern recognition is limited. To identify meaningful patterns, a dataset with multiple images exhibiting variations is required.
 *   Future steps should involve acquiring or generating a larger dataset of synthetic images with diverse patterns to enable the application of more robust pattern recognition techniques and derive more significant insights.
-
+"""
